@@ -1,0 +1,21 @@
+9
+
+0 START
+1 IF expression1
+2 IF expression2
+3 IF expression3
+4 BLOCK b1
+5 BLOCK b2
+6 BLOCK b3
+7 BLOCK b4
+8 END
+
+0 1
+1 2 3
+2 4 5
+3 6 7
+4 8
+5 8
+6 8
+7 8
+8

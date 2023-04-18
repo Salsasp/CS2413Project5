@@ -1,0 +1,22 @@
+Number of nodes: 5
+0: START node
+1: IF node - expression1
+2: BLOCK node - statement1
+3: BLOCK node - statement2
+4: END node
+AdjList:
+0: 1
+1: 2 3
+2: 4
+3: 4
+4:
+start
+if (expression1)
+{
+statement1
+}
+else
+{
+statement2
+}
+end
